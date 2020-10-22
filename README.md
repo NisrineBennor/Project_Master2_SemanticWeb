@@ -4,6 +4,7 @@ Plusieurs technologies ont été utiliser dans ce projet :
 - SKOS
 - OWL
 - Prov-O
+- UML
 - logiciel Protégé ....
 
 Un article en format Pdf permet d'expliquer en mieux les étapes de réalisation de ce projet, les matériels et les méthodes... 
