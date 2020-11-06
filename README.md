@@ -7,5 +7,5 @@ Plusieurs technologies ont été utiliser dans ce projet :
 - UML
 - logiciel Protégé ....
 
-Un article en format Pdf permet d'expliquer en mieux les étapes de réalisation de ce projet, les matériels et les méthodes et les résultats de mon projet. 
+Un article en format Pdf **BENNOR_Nisrine_M2IBM_memoire.pdf** permet d'expliquer en mieux les étapes de réalisation de ce projet, les matériels et les méthodes et les résultats de mon projet. 
 
